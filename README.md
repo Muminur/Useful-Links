@@ -20,3 +20,8 @@ https://github.com/ghalfacree/bash-scripts/blob/master/picamera-security.py
 Stream:
 http://www.instructables.com/id/Raspberry-Pi-Dropbox-Alternative/?ALLSTEPS
 http://jeremyblythe.blogspot.com/2012/06/motion-google-drive-uploader-and.html
+
+Audio:
+http://www.raspberrypi.org/documentation/usage/audio/
+
+http://raspberrypi.stackexchange.com/questions/12597/raspberry-pi-php-mpg123-playing-music-via-3-5mm-jack-no-sound-via-php
