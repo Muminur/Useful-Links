@@ -2,8 +2,11 @@
 Option 1 : send email
 
 http://iqjar.com/jar/sending-emails-from-the-raspberry-pi/
+
 http://raspberrypi.stackexchange.com/questions/12405/how-to-set-up-smtp-and-send-emails
+
 Option 2: Send Email
+
 http://raspberry.znix.com/2013/03/postfix-better-solution-for-rpi.html
 
 Other similar:
