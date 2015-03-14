@@ -16,3 +16,6 @@ http://eraldmariano.com/how-to-email-snapshot-from-raspberry-pi-with-a-webcam/
 
 From Book 
 https://github.com/ghalfacree/bash-scripts/blob/master/picamera-security.py
+
+Stream:
+http://www.instructables.com/id/Raspberry-Pi-Dropbox-Alternative/?ALLSTEPS
