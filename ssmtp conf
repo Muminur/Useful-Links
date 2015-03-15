@@ -1,0 +1,16 @@
+apt-get install ssmtp
+
+apt-get install mailutils
+
+nano /etc/ssmtp/ssmtp.conf
+
+root=mymail@gmail.com
+mailhub=smtp.gmail.com:587
+hostname=raspberrypi
+FromLineOverride=YES
+AuthUser=captanhkr@gmail.com
+AuthPass=koX28aji
+AuthLogin=Yes
+UseSTARTTLS=YES
+
+
