@@ -29,3 +29,4 @@ http://raspberrypi.stackexchange.com/questions/12597/raspberry-pi-php-mpg123-pla
 
 Show images
 http://www.raspberrypi-spy.co.uk/2014/09/how-to-display-images-on-raspbian-command-line/
+http://www.instructables.com/id/Raspberry-Pi-remote-webcam/?ALLSTEPS
