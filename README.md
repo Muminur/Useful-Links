@@ -25,3 +25,7 @@ Audio:
 http://www.raspberrypi.org/documentation/usage/audio/
 
 http://raspberrypi.stackexchange.com/questions/12597/raspberry-pi-php-mpg123-playing-music-via-3-5mm-jack-no-sound-via-php
+
+
+Show images
+http://www.raspberrypi-spy.co.uk/2014/09/how-to-display-images-on-raspbian-command-line/
