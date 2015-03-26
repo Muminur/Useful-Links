@@ -33,3 +33,7 @@ http://www.instructables.com/id/Raspberry-Pi-remote-webcam/?ALLSTEPS
 http://www.raspberrypi.org/forums/viewtopic.php?t=48045&p=470801
 http://www.pihomeserver.fr/en/2013/05/29/raspberry-pi-home-server-video-surveillance-avec-motion/
 http://www.slblabs.com/2012/09/26/rpi-webcam-stream/
+
+
+///////////////////////////
+https://learn2hack.net/cracking-wpa-psk-using-kali-linux/
