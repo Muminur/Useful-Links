@@ -4,6 +4,7 @@ Option 1 : send email
 http://iqjar.com/jar/sending-emails-from-the-raspberry-pi/
 
 http://raspberrypi.stackexchange.com/questions/12405/how-to-set-up-smtp-and-send-emails
+
 http://is.gd/pikuet   With Attachment
 
 Option 2: Send Email
